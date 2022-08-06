@@ -13,9 +13,6 @@
 </button></div>
 @endif
 
-
-
-
 <a href="{{url('empleado/create')}}" class="btn btn-success">Registrar nuevo empleado</a>
 
 <table class="table table-light">
